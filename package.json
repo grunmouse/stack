@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "format": "cjs",
-  "private": true,
   "engine": {
     "node": ">=9.5.0"
   },
